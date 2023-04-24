@@ -21,5 +21,6 @@ Filename: TweetIDs_May.txt (No. of Tweet IDs: 35756, Date Range of the Tweet IDs
 
 ![hydd](https://user-images.githubusercontent.com/38919631/233877304-37bfa114-d934-4e92-9815-6b4df44cb828.JPG| width=100)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
 
 Then, I used the huggingface model Roberta for the predictions.
